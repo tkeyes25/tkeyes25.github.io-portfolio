@@ -35,9 +35,9 @@ form {
 }
 
 #profilepic {
-    border-radius: 50%;
-    width: 3em;
-    height: 3em;
+    border-radius: 25%;
+    width: 2.5em;
+    height: 2.5em;
 }
 
 #home {
@@ -60,23 +60,22 @@ form {
 }
 
 #about {
-    background-image: url("http://tennessee.edu/wp-content/uploads/2015/08/ut-knoxville-ayres-hall.jpg");
+    height: auto;
+    background-image: url("http://meros.org/en/wonder/avatar?id=457");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    height: 46.875em;    
 }
 
 .about-text {
-    margin-left: 2rem;
-    margin-top: 1rem;
-    max-width: 350px;
-    color: #556b2f;
+    text-align: center;
+    color: #d3d3d3;
+    padding: 10rem 0 10rem 0;
 }
 
 #projects {
-    background-image: url("https://cnet1.cbsistatic.com/img/eNNv1zsSRgby5TBJl18A9PBsRQ0=/fit-in/970x0/2016/10/27/ab05197d-6c00-40a1-bf47-a6662fa8f582/apple-macbook-pro-13-inch-2016-1888-044.jpg");
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rN0W64K4ipau8gxv/dark-gray-background-soft-fifteen-shades-of-grey-smooth-background-with-the-addition-of-a-bit-of-noise_seqlug99tx_thumbnail-full01.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -112,11 +111,12 @@ form {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    height: 46.875em; 
+    height: auto;
 }
 
 .social-media-contact {
-    margin-top: 17.188rem;
+    margin: 5rem 0 5rem 0;
+    text-align: center;
 }
 
 .social-media-contact button {
@@ -126,7 +126,7 @@ form {
 
 .contact-info {
     text-align: center;
-    margin-top: 18.75rem;
+    margin: 5rem 0 5rem 0;
     color: white;
 }
 
