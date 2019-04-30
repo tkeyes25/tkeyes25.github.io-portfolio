@@ -1,0 +1,63 @@
+# Site settings
+title: Thomas Keyes
+email: your-email@domain.com
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+skills: "CS Student at UTK - Software Development - Mobile App Development"
+meta_author: Keyes Thomas
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: f77f00 #80B3FF
+  primary-rgb: "255,130,0" #"128,179,255"
+  secondary: 58595B #FD6E8A
+  secondary-dark: A7A9AC #A2122F
+
+# Footer settings
+footer:
+  copyright: Thomas Keyes
+  location: Knoxville, TN
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter 
+    url: https://twitter.com/keyesthomas
+  - title: facebook
+    url: https://www.facebook.com/thomas.keyes.1
+  - title: instagram
+    url: https://www.instagram.com/thomaskeyes25/
+  - title: linkedin
+    url: https://www.linkedin.com/in/thomas-keyes/
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 633 Lark Meadow Dr.
+  - line: Knoxville, TN, 37916
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
