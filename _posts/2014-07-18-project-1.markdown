@@ -1,7 +1,8 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2019-04-30
+title: CodeRibbon
 img: CR.gif
 alt: CodeRibbon
 project-date: Spring 2019
