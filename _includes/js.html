@@ -1,26 +1,30 @@
+ <!-- Font Awesome -->
+ <script src="https://use.fontawesome.com/c996db7921.js"></script>
+ 
  <!-- jQuery Version 1.11.0 -->
-    <script src="{{site.url}}{{ "/js/jquery-1.11.0.js" }}"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="{{site.url}}{{ "/js/bootstrap.min.js" }}"></script>
+ <script src="{{site.url}}{{ "/js/jquery-1.11.0.js" }}"></script>
 
-    <!-- Plugin JavaScript -->
-    <script src="{{site.url}}{{ "/js/jquery.easing.min.js" }}"></script>
-    <script src="{{site.url}}{{ "/js/classie.js" }}"></script>
-    <script src="{{site.url}}{{ "/js/cbpAnimatedHeader.js" }}"></script>
+ <!-- Bootstrap Core JavaScript -->
+ <script src="{{site.url}}{{ "/js/bootstrap.min.js" }}"></script>
 
-    <!-- Contact Form JavaScript -->
-    <script src="{{site.url}}{{ "/js/jqBootstrapValidation.js" }}"></script>
-    {% if site.contact == "static" %}
-    <script src="{{site.url}}{{ "/js/contact_me_static.js" }}"></script>
-    {% else %}
-     <script src="{{site.url}}{{ "/js/contact_me.js" }}"></script>
-    {% endif %}
+ <!-- Plugin JavaScript -->
+ <script src="{{site.url}}{{ "/js/jquery.easing.min.js" }}"></script>
+ <script src="{{site.url}}{{ "/js/classie.js" }}"></script>
+ <script src="{{site.url}}{{ "/js/cbpAnimatedHeader.js" }}"></script>
 
-    <!-- Custom Theme JavaScript -->
-    <script src="{{site.url}}{{ "/js/freelancer.js" }}"></script>
+ <!-- Contact Form JavaScript -->
+ <script src="{{site.url}}{{ "/js/jqBootstrapValidation.js" }}"></script>
+ {% if site.contact == "static" %}
+ <script src="{{site.url}}{{ "/js/contact_me_static.js" }}"></script>
+ {% else %}
+ <script src="{{site.url}}{{ "/js/contact_me.js" }}"></script>
+ {% endif %}
 
-    {% if site.contact == "disqus" %}
-    <!-- Disqus Stuff -->
-    {% include js_disqus.html %}
-    {% endif %}
+ <!-- Custom Theme JavaScript -->
+ <script src="{{site.url}}{{ "/js/freelancer.js" }}"></script>
+
+ {% if site.contact == "disqus" %}
+ <!-- Disqus Stuff -->
+ {% include js_disqus.html %}
+ {% endif %}
