@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-04-30T23:19:50-04:00</updated>
+  <updated>2019-05-11T13:46:40-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -123,11 +123,11 @@
   
     <entry>
       <title type="html">Project 4</title>
-      <link href="http://localhost:4000/software%20development/2019/04/30/project-4/" rel="alternate" type="text/html" title="Project 4" />
+      <link href="http://localhost:4000/mobile%20application/2019/04/30/project-4/" rel="alternate" type="text/html" title="Project 4" />
       <published>2019-04-30T00:00:00-04:00</published>
       <updated>2019-04-30T00:00:00-04:00</updated>
-      <id>http://localhost:4000/software%20development/2019/04/30/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/software%20development/2019/04/30/project-4/"></content>
+      <id>http://localhost:4000/mobile%20application/2019/04/30/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/mobile%20application/2019/04/30/project-4/"></content>
 
       
       
@@ -142,7 +142,7 @@
       </author>
 
       
-        <category term="Software Development" />
+        <category term="Mobile Application" />
       
 
       

@@ -2,10 +2,10 @@
 layout: default
 modal-id: 4
 date: 2019-04-30
-img: game.png
+img: TorreyNorthScorecard.jpg
 alt: image-alt
 project-date: TBD
-category: Software Development
-description: N/A
+category: Mobile Application
+description: Currently still in the idea phase, but it would be extremely cool to take a photo of my scorecard, store it in DB, read the scores, slope rating, and course difficulty from the card, and finally calculate my score, current handicap, best 10 rounds, etc. all at once. Something like that may be out there, but from my research, nothing is getting the job done or meeting the golfer's needs (i.e. prolly too complicated or not user friendly). It really should just be as simple as having an account, taking a pic, and seeing how your game is lately. The app does all the work for you. If this was implemented successfully, the value prop is insane!!!
 
 ---
